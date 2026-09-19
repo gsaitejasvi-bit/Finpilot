@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" fill="none">
+  <rect width="36" height="36" rx="8" fill="#18191B"/>
+  <!-- Minimal compass needle / geometric financial precision mark -->
+  <path d="M18 7L24 18L18 29L12 18L18 7Z" stroke="#FBFBF9" stroke-width="1.75" stroke-linejoin="round"/>
+  <circle cx="18" cy="18" r="2.5" fill="#6D28D9"/>
+  <line x1="18" y1="12" x2="18" y2="15.5" stroke="#FBFBF9" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="18" y1="20.5" x2="18" y2="24" stroke="#9CA3AF" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
